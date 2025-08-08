@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity29\bin\Debug\Activity29.exe.config
+C:\Users\HP\source\repos\Activity29\bin\Debug\Activity29.exe
+C:\Users\HP\source\repos\Activity29\bin\Debug\Activity29.pdb
+C:\Users\HP\source\repos\Activity29\obj\Debug\Activity29.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity29\obj\Debug\Activity29.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity29\obj\Debug\Activity29.exe
+C:\Users\HP\source\repos\Activity29\obj\Debug\Activity29.pdb
